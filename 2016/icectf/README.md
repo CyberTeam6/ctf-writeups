@@ -1,7 +1,9 @@
-# IceCTF 2016 write-ups
+# IceCTF 2016  Writeups
 
-## Additional information
+* CyberTeam6 Placed 109/1696
 
-CT6.net wordpress was destroyed.
+## Writeups
 
-Writeups from that CTF are being added with no images.
+* [forensics/intercepted-conversations](forensics/intercepted-conversations)
+* [forensics/rip-transmission](forensics/rip-transmission)
+
