@@ -12,5 +12,6 @@ See the TEMPLATE files for writeup format
 * promina
 * wytshadow
 
-[ctftime profile](https://ctftime.org/team/14062)
+## CTFtime.org Profile
+[https://ctftime.org/team/14062](https://ctftime.org/team/14062)
 
