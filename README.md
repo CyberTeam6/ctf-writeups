@@ -6,11 +6,11 @@ See the TEMPLATE files for writeup format
 
 ## Team Members
 
-*AnarKyx
-*attackd0gz
-*niden
-*promina
-*wytshadow
+* AnarKyx
+* attackd0gz
+* niden
+* promina
+* wytshadow
 
 [ctftime profile](https://ctftime.org/team/14062)
 
