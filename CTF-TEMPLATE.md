@@ -4,6 +4,10 @@ Template for each CTF Main README
 
 * CyberTeam6 Placed XX/XXX
 
+# Particpants
+
+* Players who played
+
 ## Writeups
 
 * [type/question](type/question)
