@@ -24,20 +24,20 @@ Image 8 - 13
 
 When I convert those numbers to their corresponding letters of the alphabet, it becomes:
 
-14 - n
-9  - i
-1  - a
-20 - t
-23 - w
-15 - o
-5  - e
-13 - m
+14 - n  
+9  - i  
+1  - a  
+20 - t  
+23 - w  
+15 - o  
+5  - e  
+13 - m  
 
 Reverse that... 
 
 niatwoem == meowtain
 
-flag = RC3-2016-meowtain
+flag == RC3-2016-meowtain
 
 
 ## Other resources (optional)
