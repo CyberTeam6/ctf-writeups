@@ -13,14 +13,14 @@ For this challenge, they provided us with a gif file, which was a bunch of pictu
 
 The first thing I did was run strings and exiftool on a couple images, but failed to come up with anything of value.  I decided I might have been looking a bit too deep, so I just looked at the individual images as they were.  I counted the number of cats on each image and came up with:
 
-Image 1 - 14
-Image 2 - 9
-Image 3 - 1
-Image 4 - 20
-Image 5 - 23
-Image 6 - 15
-Image 7 - 5
-Image 8 - 13
+Image 1 - 14  
+Image 2 - 9  
+Image 3 - 1  
+Image 4 - 20  
+Image 5 - 23  
+Image 6 - 15  
+Image 7 - 5  
+Image 8 - 13  
 
 When I convert those numbers to their corresponding letters of the alphabet, it becomes:
 
