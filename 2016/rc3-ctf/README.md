@@ -1,7 +1,16 @@
-# RC3-CTF 2016
+# RC3-CTF-2016 Writeups
 
-CyberTeam6 placed XXth
+* CyberTeam6 Placed 77/640
 
-## Notes
+## Particpants
 
+* AnarKyx
+* attackd0gz
+* niden
+* promina
+* wytshadow
+
+## Writeups
+
+* [crypto/cats](crypto/cats)
 
