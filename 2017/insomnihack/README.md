@@ -1,6 +1,6 @@
 # Insomnihack Teaser Writeups
 
-* CyberTeam6 Placed XX/XXX
+* CyberTeam6 Placed 
 
 ## Particpants
 
