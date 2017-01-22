@@ -2,9 +2,11 @@
 
 * CyberTeam6 Placed 
 
-## Particpants
+## Participants
 
+* AnarKy
 * attackd0gz
+* ChinkInArmor
 * nidens
 * wytshadow
 
