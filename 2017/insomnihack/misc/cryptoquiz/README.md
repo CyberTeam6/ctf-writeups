@@ -12,6 +12,7 @@ Running on quizz.teaser.insomnihack.ch:1031
 ## Writeup
 
 Upon using netcat to connect to the service you are greeted with....
+
 ```
 \~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~ Hello, young hacker. Are you ready to fight rogue machines ?    ~~
@@ -22,12 +23,14 @@ Upon using netcat to connect to the service you are greeted with....
 
 ~~ What is the birth year of Paul van Oorschot 
 ```
+
 At this point, when you answer the question you are given another name. A quick python script checks the name and spits back the year
 if the name is in the database, and if it isn't, exit letting us know which name it was.  After running enough, and googling all the 
 years, we end up with something like...
 
 
-```import sys, socket
+```python
+import sys, socket
 from time import sleep
 
 target = 'quizz.teaser.insomnihack.ch'
