@@ -19,4 +19,6 @@ Reviewing the packets from largest to smallest brings me to packet number `101`
 
 The `Leftover Capture Data` for this packet looks like a `PNG` header. Extract the hex, open in an image viewer and we are rewarded with the flag.
 
+![flag](https://github.com/nidens/ctf-writeups/blob/master/2017/alexctf/forensics/usb-probing/output.png)
+
 Flag = `ALEXCTF{SN1FF_TH3_FL4G_OV3R_US8}`
