@@ -1,0 +1,17 @@
+Opened the file and noticed that it was a file with coordinates. 
+
+A little bit more digging brought me to this website where I can convert an .xml to a .kmz file for GPS
+
+http://www.urbanhikr.com/how-to-import-gpx-into-google-maps/
+http://www.gpsvisualizer.com/map_input?form=googleearth
+
+I converted the map then imported it into google maps. 
+
+Flag is the first letter of each of the countries with GPS markers.
+
+Flag = BITSCTF{map_the_hack}
+
+
+Be mindful of the 
+<!--Use appropriate brackets and underscores to separate words if you succeed-->
+ 
