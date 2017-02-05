@@ -8,6 +8,7 @@ See the TEMPLATE files for writeup format
 
 * AnarKyx
 * attackd0gz
+* ChinkinArmor
 * jopenhagen
 * niden
 * promina
