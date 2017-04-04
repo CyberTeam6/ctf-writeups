@@ -1,6 +1,6 @@
 # PicoCTF Writeups
 
-* CyberTeam6 Placed xx/335
+* CyberTeam6 Placed xx/xxxx
 
 ## Particpants
 
